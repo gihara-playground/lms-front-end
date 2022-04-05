@@ -1,2 +1,3 @@
 .idea/
-*.imlt
+*.iml
+node_modules/

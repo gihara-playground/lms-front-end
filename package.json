@@ -3,5 +3,8 @@
   "version": "0.1.0",
   "description": "LMS Front End",
   "author": "Gihara Wickramatunge <giharanw@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "admin-lte": "^3.2.0"
+  }
 }
